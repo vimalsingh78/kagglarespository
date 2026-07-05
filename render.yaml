@@ -1,0 +1,19 @@
+databases:
+  - name: cost-tracker-db
+    plan: free
+
+services:
+  - type: web
+    name: business-cost-tracker
+    runtime: node
+    rootDir: backend
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: JWT_SECRET
+        generateValue: true
+      - key: POSTGRES_URL
+        fromDatabase:
+          name: cost-tracker-db
+          property: connectionString

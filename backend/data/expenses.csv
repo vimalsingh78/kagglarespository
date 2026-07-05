@@ -1,0 +1,514 @@
+id,date,category,vendor,amount,description
+43,2025-07-01,Equipment,Apple Business,743.14,Equipment expense - Apple Business
+3,2025-07-02,Payroll,ADP,5809.92,Payroll expense - ADP
+12,2025-07-03,Software & Subscriptions,Adobe,194.79,Software & Subscriptions expense - Adobe
+36,2025-07-03,Professional Services,TaxPro CPA,1493.85,Professional Services expense - TaxPro CPA
+33,2025-07-05,Professional Services,Deloitte Consulting,1344.53,Professional Services expense - Deloitte Consulting
+19,2025-07-06,Travel,Marriott,454.19,Travel expense - Marriott
+34,2025-07-06,Professional Services,TaxPro CPA,598.12,Professional Services expense - TaxPro CPA
+42,2025-07-06,Equipment,Apple Business,785.67,Equipment expense - Apple Business
+4,2025-07-08,Rent & Utilities,Comcast Business,1305.82,Rent & Utilities expense - Comcast Business
+24,2025-07-08,Travel,Delta Airlines,372.21,Travel expense - Delta Airlines
+30,2025-07-08,Office Supplies,Staples,110.77,Office Supplies expense - Staples
+29,2025-07-09,Office Supplies,Staples,374.0,Office Supplies expense - Staples
+13,2025-07-10,Software & Subscriptions,Zoom,724.04,Software & Subscriptions expense - Zoom
+41,2025-07-10,Equipment,Dell,12.52,Equipment expense - Dell
+40,2025-07-11,Equipment,Herman Miller,938.35,Equipment expense - Herman Miller
+18,2025-07-13,Marketing,Meta Ads,2985.4,Marketing expense - Meta Ads
+20,2025-07-13,Travel,United Airlines,88.57,Travel expense - United Airlines
+26,2025-07-13,Travel,Uber for Business,345.76,Travel expense - Uber for Business
+27,2025-07-13,Office Supplies,Amazon Business,475.7,Office Supplies expense - Amazon Business
+37,2025-07-13,Professional Services,Local Law Partners,763.04,Professional Services expense - Local Law Partners
+35,2025-07-14,Professional Services,TaxPro CPA,328.44,Professional Services expense - TaxPro CPA
+28,2025-07-15,Office Supplies,Office Depot,295.47,Office Supplies expense - Office Depot
+10,2025-07-18,Software & Subscriptions,Adobe,410.33,Software & Subscriptions expense - Adobe
+2,2025-07-19,Payroll,Gusto Payroll,10196.52,Payroll expense - Gusto Payroll
+5,2025-07-19,Rent & Utilities,Comcast Business,3378.85,Rent & Utilities expense - Comcast Business
+15,2025-07-19,Software & Subscriptions,Salesforce,655.49,Software & Subscriptions expense - Salesforce
+14,2025-07-20,Software & Subscriptions,GitHub,684.12,Software & Subscriptions expense - GitHub
+1,2025-07-22,Payroll,Gusto Payroll,30875.82,Payroll expense - Gusto Payroll
+22,2025-07-22,Travel,Marriott,364.93,Travel expense - Marriott
+9,2025-07-24,Software & Subscriptions,AWS,529.55,Software & Subscriptions expense - AWS
+7,2025-07-25,Rent & Utilities,Skyline Properties,4018.68,Rent & Utilities expense - Skyline Properties
+31,2025-07-25,Professional Services,Deloitte Consulting,393.47,Professional Services expense - Deloitte Consulting
+38,2025-07-25,Equipment,Herman Miller,576.8,Equipment expense - Herman Miller
+39,2025-07-25,Equipment,Apple Business,1058.59,Equipment expense - Apple Business
+6,2025-07-26,Rent & Utilities,CityWater Co,3150.01,Rent & Utilities expense - CityWater Co
+8,2025-07-26,Software & Subscriptions,Salesforce,805.39,Software & Subscriptions expense - Salesforce
+25,2025-07-26,Travel,Delta Airlines,38.88,Travel expense - Delta Airlines
+23,2025-07-27,Travel,Uber for Business,382.16,Travel expense - Uber for Business
+16,2025-07-28,Marketing,Meta Ads,472.74,Marketing expense - Meta Ads
+17,2025-07-28,Marketing,Google Ads,2351.06,Marketing expense - Google Ads
+32,2025-07-28,Professional Services,Deloitte Consulting,875.44,Professional Services expense - Deloitte Consulting
+11,2025-07-30,Software & Subscriptions,AWS,1455.02,Software & Subscriptions expense - AWS
+21,2025-07-30,Travel,Uber for Business,193.45,Travel expense - Uber for Business
+60,2025-08-01,Software & Subscriptions,Salesforce,460.56,Software & Subscriptions expense - Salesforce
+71,2025-08-02,Travel,Delta Airlines,495.5,Travel expense - Delta Airlines
+59,2025-08-03,Software & Subscriptions,Slack,297.2,Software & Subscriptions expense - Slack
+63,2025-08-03,Marketing,Mailchimp,5567.32,Marketing expense - Mailchimp
+48,2025-08-04,Payroll,Gusto Payroll,10417.87,Payroll expense - Gusto Payroll
+52,2025-08-05,Rent & Utilities,Metro Electric,2053.6,Rent & Utilities expense - Metro Electric
+73,2025-08-06,Office Supplies,Amazon Business,440.01,Office Supplies expense - Amazon Business
+77,2025-08-06,Professional Services,Deloitte Consulting,1754.28,Professional Services expense - Deloitte Consulting
+81,2025-08-06,Professional Services,Deloitte Consulting,30.25,Professional Services expense - Deloitte Consulting
+79,2025-08-07,Professional Services,Local Law Partners,1336.56,Professional Services expense - Local Law Partners
+84,2025-08-07,Equipment,Dell,565.06,Equipment expense - Dell
+85,2025-08-07,Equipment,Apple Business,525.32,Equipment expense - Apple Business
+50,2025-08-08,Payroll,ADP,7646.58,Payroll expense - ADP
+51,2025-08-08,Payroll,Gusto Payroll,7287.81,Payroll expense - Gusto Payroll
+58,2025-08-08,Software & Subscriptions,AWS,1078.48,Software & Subscriptions expense - AWS
+64,2025-08-08,Marketing,Canva,463.05,Marketing expense - Canva
+54,2025-08-09,Rent & Utilities,Metro Electric,1659.42,Rent & Utilities expense - Metro Electric
+44,2025-08-12,Payroll,Gusto Payroll,3152.09,Payroll expense - Gusto Payroll
+55,2025-08-12,Software & Subscriptions,GitHub,625.19,Software & Subscriptions expense - GitHub
+67,2025-08-12,Travel,United Airlines,574.06,Travel expense - United Airlines
+68,2025-08-14,Travel,United Airlines,350.41,Travel expense - United Airlines
+57,2025-08-15,Software & Subscriptions,Zoom,796.81,Software & Subscriptions expense - Zoom
+74,2025-08-15,Office Supplies,Amazon Business,336.59,Office Supplies expense - Amazon Business
+47,2025-08-16,Payroll,ADP,10921.81,Payroll expense - ADP
+78,2025-08-16,Professional Services,Local Law Partners,200.66,Professional Services expense - Local Law Partners
+83,2025-08-16,Equipment,Herman Miller,973.71,Equipment expense - Herman Miller
+45,2025-08-18,Payroll,Gusto Payroll,5990.73,Payroll expense - Gusto Payroll
+61,2025-08-18,Software & Subscriptions,Zoom,1470.34,Software & Subscriptions expense - Zoom
+87,2025-08-18,Equipment,Herman Miller,1236.18,Equipment expense - Herman Miller
+86,2025-08-19,Equipment,Dell,1188.86,Equipment expense - Dell
+46,2025-08-20,Payroll,Gusto Payroll,2138.0,Payroll expense - Gusto Payroll
+65,2025-08-22,Marketing,Mailchimp,530.12,Marketing expense - Mailchimp
+66,2025-08-22,Travel,Delta Airlines,81.19,Travel expense - Delta Airlines
+70,2025-08-22,Travel,Delta Airlines,481.46,Travel expense - Delta Airlines
+82,2025-08-22,Equipment,Herman Miller,329.35,Equipment expense - Herman Miller
+72,2025-08-24,Travel,United Airlines,116.84,Travel expense - United Airlines
+62,2025-08-28,Marketing,Meta Ads,56.56,Marketing expense - Meta Ads
+69,2025-08-28,Travel,United Airlines,290.04,Travel expense - United Airlines
+75,2025-08-28,Office Supplies,Staples,793.85,Office Supplies expense - Staples
+49,2025-08-29,Payroll,ADP,3571.62,Payroll expense - ADP
+56,2025-08-29,Software & Subscriptions,Adobe,312.93,Software & Subscriptions expense - Adobe
+80,2025-08-29,Professional Services,Local Law Partners,1107.92,Professional Services expense - Local Law Partners
+76,2025-08-30,Professional Services,Deloitte Consulting,1656.02,Professional Services expense - Deloitte Consulting
+53,2025-08-31,Rent & Utilities,Comcast Business,11651.94,Rent & Utilities expense - Comcast Business
+98,2025-09-01,Rent & Utilities,Skyline Properties,2804.76,Rent & Utilities expense - Skyline Properties
+124,2025-09-01,Professional Services,Local Law Partners,482.02,Professional Services expense - Local Law Partners
+111,2025-09-02,Travel,Uber for Business,749.85,Travel expense - Uber for Business
+117,2025-09-02,Office Supplies,Staples,37.5,Office Supplies expense - Staples
+89,2025-09-03,Payroll,Gusto Payroll,10595.11,Payroll expense - Gusto Payroll
+109,2025-09-03,Travel,Delta Airlines,229.73,Travel expense - Delta Airlines
+122,2025-09-04,Office Supplies,Office Depot,290.3,Office Supplies expense - Office Depot
+108,2025-09-05,Marketing,Canva,16.96,Marketing expense - Canva
+114,2025-09-06,Travel,Uber for Business,273.9,Travel expense - Uber for Business
+120,2025-09-07,Office Supplies,Amazon Business,271.9,Office Supplies expense - Amazon Business
+130,2025-09-07,Equipment,Dell,1385.8,Equipment expense - Dell
+93,2025-09-08,Rent & Utilities,CityWater Co,1783.96,Rent & Utilities expense - CityWater Co
+121,2025-09-08,Office Supplies,Office Depot,415.93,Office Supplies expense - Office Depot
+133,2025-09-08,Equipment,Dell,1511.15,Equipment expense - Dell
+105,2025-09-09,Marketing,Google Ads,1325.85,Marketing expense - Google Ads
+103,2025-09-10,Marketing,Canva,1807.19,Marketing expense - Canva
+112,2025-09-11,Travel,Delta Airlines,930.27,Travel expense - Delta Airlines
+102,2025-09-12,Software & Subscriptions,Slack,2763.32,Software & Subscriptions expense - Slack
+118,2025-09-12,Office Supplies,Amazon Business,440.11,Office Supplies expense - Amazon Business
+131,2025-09-12,Equipment,Apple Business,190.25,Equipment expense - Apple Business
+91,2025-09-13,Payroll,Gusto Payroll,15465.61,Payroll expense - Gusto Payroll
+94,2025-09-13,Rent & Utilities,CityWater Co,1858.57,Rent & Utilities expense - CityWater Co
+116,2025-09-14,Office Supplies,Staples,4.82,Office Supplies expense - Staples
+96,2025-09-15,Rent & Utilities,CityWater Co,1751.42,Rent & Utilities expense - CityWater Co
+115,2025-09-18,Travel,United Airlines,990.53,Travel expense - United Airlines
+99,2025-09-20,Rent & Utilities,Comcast Business,612.92,Rent & Utilities expense - Comcast Business
+113,2025-09-21,Travel,Marriott,551.25,Travel expense - Marriott
+90,2025-09-22,Payroll,Gusto Payroll,9120.09,Payroll expense - Gusto Payroll
+95,2025-09-22,Rent & Utilities,Metro Electric,1257.96,Rent & Utilities expense - Metro Electric
+107,2025-09-24,Marketing,Meta Ads,1417.53,Marketing expense - Meta Ads
+125,2025-09-24,Professional Services,Deloitte Consulting,736.19,Professional Services expense - Deloitte Consulting
+126,2025-09-26,Professional Services,Local Law Partners,183.32,Professional Services expense - Local Law Partners
+127,2025-09-26,Professional Services,Local Law Partners,1102.96,Professional Services expense - Local Law Partners
+129,2025-09-26,Professional Services,TaxPro CPA,1157.91,Professional Services expense - TaxPro CPA
+110,2025-09-27,Travel,United Airlines,373.98,Travel expense - United Airlines
+132,2025-09-27,Equipment,Apple Business,1535.04,Equipment expense - Apple Business
+88,2025-09-28,Payroll,Gusto Payroll,1036.79,Payroll expense - Gusto Payroll
+128,2025-09-28,Professional Services,TaxPro CPA,1025.53,Professional Services expense - TaxPro CPA
+92,2025-09-29,Payroll,Gusto Payroll,2855.32,Payroll expense - Gusto Payroll
+100,2025-09-29,Software & Subscriptions,Salesforce,763.36,Software & Subscriptions expense - Salesforce
+101,2025-09-29,Software & Subscriptions,AWS,2221.01,Software & Subscriptions expense - AWS
+104,2025-09-29,Marketing,Meta Ads,1524.96,Marketing expense - Meta Ads
+106,2025-09-29,Marketing,Meta Ads,2139.88,Marketing expense - Meta Ads
+119,2025-09-29,Office Supplies,Staples,450.49,Office Supplies expense - Staples
+123,2025-09-29,Professional Services,Deloitte Consulting,1048.7,Professional Services expense - Deloitte Consulting
+97,2025-09-30,Rent & Utilities,CityWater Co,1568.71,Rent & Utilities expense - CityWater Co
+142,2025-10-01,Rent & Utilities,Comcast Business,2679.69,Rent & Utilities expense - Comcast Business
+164,2025-10-02,Professional Services,Local Law Partners,654.05,Professional Services expense - Local Law Partners
+156,2025-10-03,Travel,Uber for Business,433.09,Travel expense - Uber for Business
+137,2025-10-04,Payroll,Gusto Payroll,19625.26,Payroll expense - Gusto Payroll
+159,2025-10-05,Travel,Marriott,686.99,Travel expense - Marriott
+158,2025-10-08,Travel,Uber for Business,908.01,Travel expense - Uber for Business
+165,2025-10-08,Professional Services,TaxPro CPA,849.08,Professional Services expense - TaxPro CPA
+174,2025-10-08,Equipment,Herman Miller,548.78,Equipment expense - Herman Miller
+177,2025-10-08,Equipment,Apple Business,553.9,Equipment expense - Apple Business
+140,2025-10-09,Rent & Utilities,Metro Electric,1636.97,Rent & Utilities expense - Metro Electric
+172,2025-10-09,Equipment,Herman Miller,525.19,Equipment expense - Herman Miller
+151,2025-10-10,Marketing,Canva,3020.09,Marketing expense - Canva
+153,2025-10-10,Marketing,Meta Ads,3398.0,Marketing expense - Meta Ads
+155,2025-10-10,Travel,Delta Airlines,815.32,Travel expense - Delta Airlines
+143,2025-10-11,Software & Subscriptions,Zoom,710.55,Software & Subscriptions expense - Zoom
+148,2025-10-11,Software & Subscriptions,Adobe,981.61,Software & Subscriptions expense - Adobe
+170,2025-10-11,Professional Services,TaxPro CPA,764.85,Professional Services expense - TaxPro CPA
+178,2025-10-11,Equipment,Apple Business,925.21,Equipment expense - Apple Business
+139,2025-10-13,Rent & Utilities,Skyline Properties,5935.37,Rent & Utilities expense - Skyline Properties
+162,2025-10-13,Office Supplies,Office Depot,350.56,Office Supplies expense - Office Depot
+163,2025-10-13,Office Supplies,Amazon Business,207.75,Office Supplies expense - Amazon Business
+138,2025-10-14,Rent & Utilities,CityWater Co,1101.12,Rent & Utilities expense - CityWater Co
+166,2025-10-15,Professional Services,Deloitte Consulting,818.43,Professional Services expense - Deloitte Consulting
+175,2025-10-15,Equipment,Apple Business,195.88,Equipment expense - Apple Business
+173,2025-10-16,Equipment,Herman Miller,1116.06,Equipment expense - Herman Miller
+146,2025-10-17,Software & Subscriptions,Salesforce,203.83,Software & Subscriptions expense - Salesforce
+152,2025-10-18,Marketing,LinkedIn Ads,1722.07,Marketing expense - LinkedIn Ads
+169,2025-10-18,Professional Services,TaxPro CPA,208.16,Professional Services expense - TaxPro CPA
+160,2025-10-19,Office Supplies,Office Depot,448.84,Office Supplies expense - Office Depot
+150,2025-10-20,Marketing,Google Ads,871.33,Marketing expense - Google Ads
+171,2025-10-20,Professional Services,Local Law Partners,661.94,Professional Services expense - Local Law Partners
+134,2025-10-21,Payroll,ADP,10112.16,Payroll expense - ADP
+135,2025-10-22,Payroll,ADP,7070.31,Payroll expense - ADP
+147,2025-10-22,Software & Subscriptions,Salesforce,446.18,Software & Subscriptions expense - Salesforce
+154,2025-10-22,Travel,Marriott,1056.02,Travel expense - Marriott
+157,2025-10-22,Travel,Marriott,593.74,Travel expense - Marriott
+168,2025-10-22,Professional Services,Local Law Partners,740.42,Professional Services expense - Local Law Partners
+141,2025-10-23,Rent & Utilities,Skyline Properties,668.45,Rent & Utilities expense - Skyline Properties
+149,2025-10-23,Software & Subscriptions,Adobe,952.54,Software & Subscriptions expense - Adobe
+161,2025-10-23,Office Supplies,Staples,278.84,Office Supplies expense - Staples
+176,2025-10-23,Equipment,Dell,1060.24,Equipment expense - Dell
+145,2025-10-24,Software & Subscriptions,AWS,762.47,Software & Subscriptions expense - AWS
+167,2025-10-26,Professional Services,Deloitte Consulting,842.24,Professional Services expense - Deloitte Consulting
+144,2025-10-28,Software & Subscriptions,GitHub,972.7,Software & Subscriptions expense - GitHub
+136,2025-10-31,Payroll,ADP,1761.74,Payroll expense - ADP
+186,2025-11-01,Rent & Utilities,Comcast Business,1673.63,Rent & Utilities expense - Comcast Business
+215,2025-11-01,Office Supplies,Amazon Business,372.47,Office Supplies expense - Amazon Business
+209,2025-11-03,Travel,Marriott,1217.36,Travel expense - Marriott
+213,2025-11-03,Office Supplies,Amazon Business,57.61,Office Supplies expense - Amazon Business
+210,2025-11-04,Travel,Marriott,907.41,Travel expense - Marriott
+226,2025-11-06,Equipment,Apple Business,971.8,Equipment expense - Apple Business
+180,2025-11-07,Payroll,Gusto Payroll,3717.69,Payroll expense - Gusto Payroll
+193,2025-11-07,Software & Subscriptions,Salesforce,1189.24,Software & Subscriptions expense - Salesforce
+199,2025-11-08,Marketing,Meta Ads,1990.54,Marketing expense - Meta Ads
+202,2025-11-08,Marketing,Google Ads,2399.13,Marketing expense - Google Ads
+196,2025-11-09,Software & Subscriptions,Adobe,1554.89,Software & Subscriptions expense - Adobe
+197,2025-11-09,Software & Subscriptions,Adobe,325.97,Software & Subscriptions expense - Adobe
+217,2025-11-09,Professional Services,TaxPro CPA,1733.89,Professional Services expense - TaxPro CPA
+204,2025-11-10,Travel,Marriott,1197.18,Travel expense - Marriott
+187,2025-11-11,Rent & Utilities,Comcast Business,2284.39,Rent & Utilities expense - Comcast Business
+194,2025-11-11,Software & Subscriptions,Adobe,150.58,Software & Subscriptions expense - Adobe
+224,2025-11-11,Equipment,Apple Business,2014.78,Equipment expense - Apple Business
+184,2025-11-12,Payroll,Gusto Payroll,10225.71,Payroll expense - Gusto Payroll
+181,2025-11-13,Payroll,ADP,9441.1,Payroll expense - ADP
+192,2025-11-13,Software & Subscriptions,Salesforce,1061.69,Software & Subscriptions expense - Salesforce
+208,2025-11-13,Travel,United Airlines,765.34,Travel expense - United Airlines
+179,2025-11-14,Payroll,ADP,1986.09,Payroll expense - ADP
+220,2025-11-15,Professional Services,Local Law Partners,1276.45,Professional Services expense - Local Law Partners
+183,2025-11-16,Payroll,ADP,5273.53,Payroll expense - ADP
+203,2025-11-16,Marketing,Google Ads,2882.87,Marketing expense - Google Ads
+225,2025-11-16,Equipment,Dell,601.29,Equipment expense - Dell
+216,2025-11-17,Professional Services,TaxPro CPA,190.46,Professional Services expense - TaxPro CPA
+211,2025-11-18,Office Supplies,Amazon Business,404.67,Office Supplies expense - Amazon Business
+205,2025-11-19,Travel,Delta Airlines,587.42,Travel expense - Delta Airlines
+207,2025-11-19,Travel,Uber for Business,465.98,Travel expense - Uber for Business
+222,2025-11-19,Equipment,Apple Business,694.8,Equipment expense - Apple Business
+191,2025-11-20,Rent & Utilities,Metro Electric,848.71,Rent & Utilities expense - Metro Electric
+201,2025-11-20,Marketing,Meta Ads,1291.41,Marketing expense - Meta Ads
+214,2025-11-21,Office Supplies,Office Depot,468.23,Office Supplies expense - Office Depot
+212,2025-11-22,Office Supplies,Amazon Business,285.75,Office Supplies expense - Amazon Business
+223,2025-11-22,Equipment,Herman Miller,529.22,Equipment expense - Herman Miller
+188,2025-11-24,Rent & Utilities,Comcast Business,2487.24,Rent & Utilities expense - Comcast Business
+185,2025-11-25,Payroll,ADP,8155.6,Payroll expense - ADP
+195,2025-11-25,Software & Subscriptions,Salesforce,768.81,Software & Subscriptions expense - Salesforce
+198,2025-11-25,Marketing,Meta Ads,71.53,Marketing expense - Meta Ads
+219,2025-11-25,Professional Services,TaxPro CPA,1495.53,Professional Services expense - TaxPro CPA
+218,2025-11-26,Professional Services,TaxPro CPA,1147.01,Professional Services expense - TaxPro CPA
+189,2025-11-27,Rent & Utilities,Metro Electric,2791.8,Rent & Utilities expense - Metro Electric
+200,2025-11-27,Marketing,Google Ads,3689.82,Marketing expense - Google Ads
+221,2025-11-27,Professional Services,Local Law Partners,785.9,Professional Services expense - Local Law Partners
+182,2025-11-28,Payroll,Gusto Payroll,3766.36,Payroll expense - Gusto Payroll
+190,2025-11-30,Rent & Utilities,Comcast Business,1518.18,Rent & Utilities expense - Comcast Business
+206,2025-11-30,Travel,Delta Airlines,323.68,Travel expense - Delta Airlines
+242,2025-12-01,Software & Subscriptions,Salesforce,861.6,Software & Subscriptions expense - Salesforce
+245,2025-12-02,Software & Subscriptions,AWS,943.68,Software & Subscriptions expense - AWS
+228,2025-12-03,Payroll,Gusto Payroll,5856.84,Payroll expense - Gusto Payroll
+249,2025-12-03,Marketing,LinkedIn Ads,351.99,Marketing expense - LinkedIn Ads
+260,2025-12-03,Office Supplies,Office Depot,694.6,Office Supplies expense - Office Depot
+236,2025-12-04,Rent & Utilities,Metro Electric,2483.04,Rent & Utilities expense - Metro Electric
+247,2025-12-04,Marketing,LinkedIn Ads,2188.62,Marketing expense - LinkedIn Ads
+251,2025-12-05,Marketing,Meta Ads,975.61,Marketing expense - Meta Ads
+241,2025-12-06,Software & Subscriptions,Salesforce,668.23,Software & Subscriptions expense - Salesforce
+239,2025-12-07,Rent & Utilities,Metro Electric,1698.68,Rent & Utilities expense - Metro Electric
+240,2025-12-08,Software & Subscriptions,Salesforce,313.38,Software & Subscriptions expense - Salesforce
+262,2025-12-08,Professional Services,Deloitte Consulting,559.72,Professional Services expense - Deloitte Consulting
+234,2025-12-09,Rent & Utilities,Comcast Business,334.0,Rent & Utilities expense - Comcast Business
+235,2025-12-09,Rent & Utilities,CityWater Co,795.38,Rent & Utilities expense - CityWater Co
+244,2025-12-09,Software & Subscriptions,Slack,1111.29,Software & Subscriptions expense - Slack
+246,2025-12-09,Marketing,Meta Ads,3239.3,Marketing expense - Meta Ads
+259,2025-12-09,Office Supplies,Staples,542.5,Office Supplies expense - Staples
+256,2025-12-10,Travel,United Airlines,800.91,Travel expense - United Airlines
+257,2025-12-10,Travel,United Airlines,1044.52,Travel expense - United Airlines
+261,2025-12-10,Professional Services,Local Law Partners,1973.77,Professional Services expense - Local Law Partners
+237,2025-12-11,Rent & Utilities,Metro Electric,1099.07,Rent & Utilities expense - Metro Electric
+233,2025-12-12,Rent & Utilities,CityWater Co,2846.08,Rent & Utilities expense - CityWater Co
+248,2025-12-13,Marketing,Meta Ads,2582.94,Marketing expense - Meta Ads
+232,2025-12-14,Rent & Utilities,CityWater Co,1761.71,Rent & Utilities expense - CityWater Co
+267,2025-12-14,Equipment,Dell,2364.75,Equipment expense - Dell
+255,2025-12-15,Travel,United Airlines,1009.78,Travel expense - United Airlines
+230,2025-12-16,Payroll,ADP,12066.56,Payroll expense - ADP
+227,2025-12-17,Payroll,Gusto Payroll,13729.77,Payroll expense - Gusto Payroll
+243,2025-12-18,Software & Subscriptions,GitHub,676.39,Software & Subscriptions expense - GitHub
+265,2025-12-19,Equipment,Herman Miller,2063.26,Equipment expense - Herman Miller
+250,2025-12-21,Marketing,Canva,42.08,Marketing expense - Canva
+258,2025-12-21,Office Supplies,Staples,446.87,Office Supplies expense - Staples
+231,2025-12-23,Payroll,Gusto Payroll,4754.26,Payroll expense - Gusto Payroll
+263,2025-12-23,Professional Services,Local Law Partners,1460.75,Professional Services expense - Local Law Partners
+264,2025-12-23,Professional Services,Local Law Partners,2465.0,Professional Services expense - Local Law Partners
+229,2025-12-24,Payroll,Gusto Payroll,15149.29,Payroll expense - Gusto Payroll
+238,2025-12-24,Rent & Utilities,Skyline Properties,2087.38,Rent & Utilities expense - Skyline Properties
+254,2025-12-25,Travel,Marriott,156.47,Travel expense - Marriott
+252,2025-12-26,Marketing,Google Ads,1642.54,Marketing expense - Google Ads
+266,2025-12-26,Equipment,Herman Miller,2773.22,Equipment expense - Herman Miller
+253,2025-12-31,Marketing,Canva,1169.01,Marketing expense - Canva
+285,2026-01-02,Software & Subscriptions,Zoom,1498.62,Software & Subscriptions expense - Zoom
+288,2026-01-02,Marketing,LinkedIn Ads,1723.0,Marketing expense - LinkedIn Ads
+310,2026-01-02,Equipment,Apple Business,1219.79,Equipment expense - Apple Business
+272,2026-01-03,Rent & Utilities,Skyline Properties,1310.58,Rent & Utilities expense - Skyline Properties
+294,2026-01-03,Travel,United Airlines,153.47,Travel expense - United Airlines
+299,2026-01-05,Office Supplies,Office Depot,364.26,Office Supplies expense - Office Depot
+315,2026-01-05,Equipment,Herman Miller,1119.31,Equipment expense - Herman Miller
+279,2026-01-06,Rent & Utilities,CityWater Co,1965.71,Rent & Utilities expense - CityWater Co
+300,2026-01-07,Office Supplies,Amazon Business,195.72,Office Supplies expense - Amazon Business
+282,2026-01-10,Software & Subscriptions,Adobe,204.05,Software & Subscriptions expense - Adobe
+292,2026-01-10,Travel,Marriott,60.46,Travel expense - Marriott
+280,2026-01-11,Software & Subscriptions,Slack,1419.57,Software & Subscriptions expense - Slack
+308,2026-01-11,Professional Services,Local Law Partners,1665.84,Professional Services expense - Local Law Partners
+313,2026-01-13,Equipment,Apple Business,312.26,Equipment expense - Apple Business
+270,2026-01-15,Payroll,ADP,13406.0,Payroll expense - ADP
+271,2026-01-15,Payroll,Gusto Payroll,1158.1,Payroll expense - Gusto Payroll
+287,2026-01-15,Marketing,Canva,258.54,Marketing expense - Canva
+296,2026-01-15,Travel,Delta Airlines,1031.83,Travel expense - Delta Airlines
+306,2026-01-15,Professional Services,Deloitte Consulting,613.0,Professional Services expense - Deloitte Consulting
+277,2026-01-16,Rent & Utilities,Metro Electric,2895.98,Rent & Utilities expense - Metro Electric
+298,2026-01-16,Travel,Marriott,33.82,Travel expense - Marriott
+307,2026-01-16,Professional Services,TaxPro CPA,5.89,Professional Services expense - TaxPro CPA
+289,2026-01-17,Marketing,Google Ads,1928.99,Marketing expense - Google Ads
+301,2026-01-17,Office Supplies,Office Depot,597.51,Office Supplies expense - Office Depot
+293,2026-01-18,Travel,Delta Airlines,312.83,Travel expense - Delta Airlines
+275,2026-01-19,Rent & Utilities,CityWater Co,1425.35,Rent & Utilities expense - CityWater Co
+269,2026-01-20,Payroll,ADP,14732.28,Payroll expense - ADP
+290,2026-01-20,Marketing,Mailchimp,1839.82,Marketing expense - Mailchimp
+297,2026-01-21,Travel,Delta Airlines,567.79,Travel expense - Delta Airlines
+286,2026-01-22,Marketing,Meta Ads,562.92,Marketing expense - Meta Ads
+304,2026-01-22,Professional Services,TaxPro CPA,779.81,Professional Services expense - TaxPro CPA
+281,2026-01-23,Software & Subscriptions,Adobe,1099.65,Software & Subscriptions expense - Adobe
+291,2026-01-23,Travel,Marriott,517.81,Travel expense - Marriott
+312,2026-01-23,Equipment,Apple Business,1282.45,Equipment expense - Apple Business
+311,2026-01-24,Equipment,Apple Business,1137.08,Equipment expense - Apple Business
+274,2026-01-25,Rent & Utilities,Skyline Properties,1758.19,Rent & Utilities expense - Skyline Properties
+276,2026-01-25,Rent & Utilities,Skyline Properties,1947.22,Rent & Utilities expense - Skyline Properties
+309,2026-01-25,Professional Services,TaxPro CPA,1921.49,Professional Services expense - TaxPro CPA
+268,2026-01-26,Payroll,Gusto Payroll,10503.1,Payroll expense - Gusto Payroll
+314,2026-01-26,Equipment,Herman Miller,500.77,Equipment expense - Herman Miller
+284,2026-01-27,Software & Subscriptions,Adobe,745.38,Software & Subscriptions expense - Adobe
+295,2026-01-27,Travel,Marriott,337.4,Travel expense - Marriott
+303,2026-01-28,Office Supplies,Staples,174.47,Office Supplies expense - Staples
+305,2026-01-28,Professional Services,Local Law Partners,1807.33,Professional Services expense - Local Law Partners
+302,2026-01-29,Office Supplies,Office Depot,701.68,Office Supplies expense - Office Depot
+278,2026-01-30,Rent & Utilities,Comcast Business,2391.66,Rent & Utilities expense - Comcast Business
+273,2026-01-31,Rent & Utilities,Metro Electric,886.44,Rent & Utilities expense - Metro Electric
+283,2026-01-31,Software & Subscriptions,GitHub,778.15,Software & Subscriptions expense - GitHub
+318,2026-02-01,Payroll,ADP,10479.69,Payroll expense - ADP
+326,2026-02-01,Software & Subscriptions,Salesforce,326.36,Software & Subscriptions expense - Salesforce
+343,2026-02-01,Office Supplies,Amazon Business,166.74,Office Supplies expense - Amazon Business
+346,2026-02-02,Office Supplies,Office Depot,247.89,Office Supplies expense - Office Depot
+337,2026-02-03,Travel,Marriott,1613.62,Travel expense - Marriott
+317,2026-02-04,Payroll,ADP,30472.18,Payroll expense - ADP
+330,2026-02-05,Software & Subscriptions,Adobe,863.51,Software & Subscriptions expense - Adobe
+334,2026-02-05,Marketing,Canva,306.39,Marketing expense - Canva
+355,2026-02-05,Equipment,Dell,683.84,Equipment expense - Dell
+354,2026-02-06,Equipment,Apple Business,62.53,Equipment expense - Apple Business
+328,2026-02-10,Software & Subscriptions,AWS,102.64,Software & Subscriptions expense - AWS
+340,2026-02-10,Office Supplies,Office Depot,108.4,Office Supplies expense - Office Depot
+322,2026-02-11,Rent & Utilities,Comcast Business,3069.16,Rent & Utilities expense - Comcast Business
+327,2026-02-11,Software & Subscriptions,AWS,258.34,Software & Subscriptions expense - AWS
+329,2026-02-12,Software & Subscriptions,Salesforce,1111.04,Software & Subscriptions expense - Salesforce
+338,2026-02-12,Travel,United Airlines,835.17,Travel expense - United Airlines
+356,2026-02-12,Equipment,Herman Miller,246.3,Equipment expense - Herman Miller
+342,2026-02-13,Office Supplies,Office Depot,86.35,Office Supplies expense - Office Depot
+335,2026-02-15,Marketing,Google Ads,3378.75,Marketing expense - Google Ads
+336,2026-02-15,Marketing,Mailchimp,2404.4,Marketing expense - Mailchimp
+333,2026-02-16,Marketing,Google Ads,659.52,Marketing expense - Google Ads
+331,2026-02-17,Software & Subscriptions,Slack,799.37,Software & Subscriptions expense - Slack
+357,2026-02-17,Equipment,Herman Miller,1704.87,Equipment expense - Herman Miller
+332,2026-02-19,Software & Subscriptions,Adobe,114.14,Software & Subscriptions expense - Adobe
+324,2026-02-20,Rent & Utilities,Skyline Properties,2447.63,Rent & Utilities expense - Skyline Properties
+319,2026-02-21,Rent & Utilities,Comcast Business,3420.28,Rent & Utilities expense - Comcast Business
+339,2026-02-21,Travel,Uber for Business,516.32,Travel expense - Uber for Business
+351,2026-02-21,Professional Services,Deloitte Consulting,592.14,Professional Services expense - Deloitte Consulting
+352,2026-02-21,Professional Services,Deloitte Consulting,514.08,Professional Services expense - Deloitte Consulting
+348,2026-02-22,Professional Services,Local Law Partners,2097.44,Professional Services expense - Local Law Partners
+350,2026-02-22,Professional Services,TaxPro CPA,2168.26,Professional Services expense - TaxPro CPA
+325,2026-02-23,Software & Subscriptions,Slack,777.23,Software & Subscriptions expense - Slack
+347,2026-02-24,Office Supplies,Office Depot,249.14,Office Supplies expense - Office Depot
+353,2026-02-24,Equipment,Apple Business,1478.06,Equipment expense - Apple Business
+345,2026-02-25,Office Supplies,Office Depot,102.81,Office Supplies expense - Office Depot
+349,2026-02-25,Professional Services,TaxPro CPA,622.19,Professional Services expense - TaxPro CPA
+341,2026-02-27,Office Supplies,Staples,366.38,Office Supplies expense - Staples
+316,2026-02-28,Payroll,Gusto Payroll,3985.07,Payroll expense - Gusto Payroll
+320,2026-02-28,Rent & Utilities,Skyline Properties,3809.16,Rent & Utilities expense - Skyline Properties
+321,2026-02-28,Rent & Utilities,CityWater Co,293.86,Rent & Utilities expense - CityWater Co
+323,2026-02-28,Rent & Utilities,Comcast Business,1040.78,Rent & Utilities expense - Comcast Business
+344,2026-02-28,Office Supplies,Office Depot,209.43,Office Supplies expense - Office Depot
+381,2026-03-02,Marketing,Mailchimp,1372.01,Marketing expense - Mailchimp
+394,2026-03-02,Professional Services,Local Law Partners,3273.14,Professional Services expense - Local Law Partners
+385,2026-03-03,Travel,Marriott,327.29,Travel expense - Marriott
+364,2026-03-04,Rent & Utilities,CityWater Co,2068.93,Rent & Utilities expense - CityWater Co
+379,2026-03-04,Marketing,Mailchimp,1866.47,Marketing expense - Mailchimp
+391,2026-03-04,Office Supplies,Staples,661.7,Office Supplies expense - Staples
+360,2026-03-05,Payroll,Gusto Payroll,10283.92,Payroll expense - Gusto Payroll
+376,2026-03-05,Software & Subscriptions,GitHub,149.02,Software & Subscriptions expense - GitHub
+393,2026-03-06,Professional Services,Deloitte Consulting,1487.23,Professional Services expense - Deloitte Consulting
+398,2026-03-08,Equipment,Herman Miller,1519.19,Equipment expense - Herman Miller
+382,2026-03-09,Marketing,LinkedIn Ads,431.85,Marketing expense - LinkedIn Ads
+390,2026-03-09,Office Supplies,Office Depot,186.45,Office Supplies expense - Office Depot
+388,2026-03-11,Travel,Marriott,78.04,Travel expense - Marriott
+371,2026-03-12,Software & Subscriptions,Adobe,626.0,Software & Subscriptions expense - Adobe
+370,2026-03-13,Software & Subscriptions,Slack,463.32,Software & Subscriptions expense - Slack
+374,2026-03-14,Software & Subscriptions,Zoom,466.66,Software & Subscriptions expense - Zoom
+359,2026-03-15,Payroll,Gusto Payroll,17601.09,Payroll expense - Gusto Payroll
+397,2026-03-15,Equipment,Dell,929.94,Equipment expense - Dell
+365,2026-03-16,Rent & Utilities,Metro Electric,940.56,Rent & Utilities expense - Metro Electric
+380,2026-03-18,Marketing,Mailchimp,556.01,Marketing expense - Mailchimp
+362,2026-03-19,Rent & Utilities,CityWater Co,2519.84,Rent & Utilities expense - CityWater Co
+386,2026-03-19,Travel,Marriott,986.76,Travel expense - Marriott
+396,2026-03-19,Equipment,Herman Miller,1456.02,Equipment expense - Herman Miller
+366,2026-03-20,Rent & Utilities,Skyline Properties,2033.18,Rent & Utilities expense - Skyline Properties
+368,2026-03-21,Rent & Utilities,Metro Electric,1379.75,Rent & Utilities expense - Metro Electric
+369,2026-03-21,Rent & Utilities,Skyline Properties,1169.45,Rent & Utilities expense - Skyline Properties
+377,2026-03-21,Software & Subscriptions,Adobe,1360.36,Software & Subscriptions expense - Adobe
+373,2026-03-23,Software & Subscriptions,GitHub,1450.82,Software & Subscriptions expense - GitHub
+375,2026-03-24,Software & Subscriptions,Zoom,755.3,Software & Subscriptions expense - Zoom
+395,2026-03-24,Professional Services,Deloitte Consulting,2444.6,Professional Services expense - Deloitte Consulting
+358,2026-03-26,Payroll,ADP,5484.43,Payroll expense - ADP
+384,2026-03-26,Travel,Marriott,141.46,Travel expense - Marriott
+389,2026-03-26,Travel,Marriott,514.62,Travel expense - Marriott
+363,2026-03-27,Rent & Utilities,Comcast Business,2487.26,Rent & Utilities expense - Comcast Business
+387,2026-03-27,Travel,Marriott,1498.43,Travel expense - Marriott
+361,2026-03-28,Payroll,Gusto Payroll,17212.63,Payroll expense - Gusto Payroll
+378,2026-03-28,Marketing,Google Ads,1223.67,Marketing expense - Google Ads
+392,2026-03-28,Office Supplies,Office Depot,664.06,Office Supplies expense - Office Depot
+367,2026-03-30,Rent & Utilities,CityWater Co,35.79,Rent & Utilities expense - CityWater Co
+372,2026-03-31,Software & Subscriptions,GitHub,214.31,Software & Subscriptions expense - GitHub
+383,2026-03-31,Marketing,Google Ads,883.88,Marketing expense - Google Ads
+424,2026-04-01,Office Supplies,Office Depot,232.58,Office Supplies expense - Office Depot
+400,2026-04-02,Payroll,Gusto Payroll,20200.57,Payroll expense - Gusto Payroll
+410,2026-04-03,Software & Subscriptions,Adobe,1106.83,Software & Subscriptions expense - Adobe
+412,2026-04-03,Software & Subscriptions,AWS,474.1,Software & Subscriptions expense - AWS
+404,2026-04-04,Rent & Utilities,Comcast Business,1450.1,Rent & Utilities expense - Comcast Business
+413,2026-04-04,Software & Subscriptions,Adobe,386.67,Software & Subscriptions expense - Adobe
+419,2026-04-05,Travel,Marriott,2495.51,Travel expense - Marriott
+428,2026-04-06,Professional Services,Deloitte Consulting,3742.06,Professional Services expense - Deloitte Consulting
+420,2026-04-08,Travel,United Airlines,1547.23,Travel expense - United Airlines
+421,2026-04-12,Travel,Delta Airlines,906.17,Travel expense - Delta Airlines
+427,2026-04-12,Professional Services,Local Law Partners,960.76,Professional Services expense - Local Law Partners
+402,2026-04-13,Rent & Utilities,CityWater Co,352.95,Rent & Utilities expense - CityWater Co
+431,2026-04-13,Equipment,Dell,3703.31,Equipment expense - Dell
+406,2026-04-14,Rent & Utilities,Metro Electric,1053.06,Rent & Utilities expense - Metro Electric
+408,2026-04-14,Rent & Utilities,Metro Electric,412.55,Rent & Utilities expense - Metro Electric
+416,2026-04-14,Marketing,Meta Ads,2822.7,Marketing expense - Meta Ads
+399,2026-04-15,Payroll,ADP,16165.83,Payroll expense - ADP
+403,2026-04-15,Rent & Utilities,CityWater Co,2329.0,Rent & Utilities expense - CityWater Co
+432,2026-04-15,Equipment,Apple Business,179.31,Equipment expense - Apple Business
+430,2026-04-17,Equipment,Herman Miller,829.8,Equipment expense - Herman Miller
+429,2026-04-19,Professional Services,Deloitte Consulting,1645.43,Professional Services expense - Deloitte Consulting
+422,2026-04-20,Office Supplies,Office Depot,118.15,Office Supplies expense - Office Depot
+423,2026-04-21,Office Supplies,Office Depot,286.48,Office Supplies expense - Office Depot
+414,2026-04-24,Software & Subscriptions,GitHub,1446.6,Software & Subscriptions expense - GitHub
+415,2026-04-26,Software & Subscriptions,Salesforce,1041.91,Software & Subscriptions expense - Salesforce
+409,2026-04-27,Rent & Utilities,CityWater Co,2041.03,Rent & Utilities expense - CityWater Co
+411,2026-04-27,Software & Subscriptions,AWS,474.14,Software & Subscriptions expense - AWS
+426,2026-04-27,Office Supplies,Office Depot,576.9,Office Supplies expense - Office Depot
+401,2026-04-28,Payroll,ADP,14646.71,Payroll expense - ADP
+405,2026-04-28,Rent & Utilities,Skyline Properties,2939.9,Rent & Utilities expense - Skyline Properties
+417,2026-04-28,Marketing,Mailchimp,2702.96,Marketing expense - Mailchimp
+418,2026-04-28,Marketing,LinkedIn Ads,1586.61,Marketing expense - LinkedIn Ads
+407,2026-04-29,Rent & Utilities,Comcast Business,484.94,Rent & Utilities expense - Comcast Business
+425,2026-04-30,Office Supplies,Office Depot,441.3,Office Supplies expense - Office Depot
+441,2026-05-01,Rent & Utilities,Skyline Properties,1891.48,Rent & Utilities expense - Skyline Properties
+439,2026-05-02,Rent & Utilities,CityWater Co,3321.51,Rent & Utilities expense - CityWater Co
+471,2026-05-02,Equipment,Dell,1478.37,Equipment expense - Dell
+448,2026-05-03,Software & Subscriptions,Salesforce,392.48,Software & Subscriptions expense - Salesforce
+453,2026-05-03,Marketing,Mailchimp,1083.28,Marketing expense - Mailchimp
+458,2026-05-03,Travel,Marriott,1151.57,Travel expense - Marriott
+463,2026-05-03,Office Supplies,Office Depot,100.76,Office Supplies expense - Office Depot
+473,2026-05-03,Equipment,Apple Business,1939.6,Equipment expense - Apple Business
+433,2026-05-06,Payroll,Gusto Payroll,4368.45,Payroll expense - Gusto Payroll
+451,2026-05-06,Marketing,Mailchimp,1733.15,Marketing expense - Mailchimp
+460,2026-05-07,Office Supplies,Amazon Business,239.53,Office Supplies expense - Amazon Business
+455,2026-05-08,Marketing,Meta Ads,1334.91,Marketing expense - Meta Ads
+435,2026-05-09,Payroll,Gusto Payroll,13196.39,Payroll expense - Gusto Payroll
+442,2026-05-10,Rent & Utilities,Metro Electric,1246.2,Rent & Utilities expense - Metro Electric
+465,2026-05-11,Professional Services,TaxPro CPA,710.78,Professional Services expense - TaxPro CPA
+466,2026-05-11,Professional Services,TaxPro CPA,863.64,Professional Services expense - TaxPro CPA
+440,2026-05-13,Rent & Utilities,Metro Electric,500.76,Rent & Utilities expense - Metro Electric
+449,2026-05-13,Marketing,Meta Ads,79.59,Marketing expense - Meta Ads
+452,2026-05-15,Marketing,Canva,1622.05,Marketing expense - Canva
+467,2026-05-15,Professional Services,Deloitte Consulting,887.74,Professional Services expense - Deloitte Consulting
+437,2026-05-16,Payroll,ADP,12382.45,Payroll expense - ADP
+468,2026-05-16,Professional Services,Deloitte Consulting,1043.5,Professional Services expense - Deloitte Consulting
+438,2026-05-17,Rent & Utilities,Comcast Business,1201.85,Rent & Utilities expense - Comcast Business
+445,2026-05-17,Software & Subscriptions,Slack,364.52,Software & Subscriptions expense - Slack
+459,2026-05-17,Travel,Delta Airlines,1260.09,Travel expense - Delta Airlines
+456,2026-05-19,Marketing,LinkedIn Ads,785.88,Marketing expense - LinkedIn Ads
+461,2026-05-20,Office Supplies,Staples,653.72,Office Supplies expense - Staples
+469,2026-05-21,Professional Services,Local Law Partners,1351.3,Professional Services expense - Local Law Partners
+434,2026-05-22,Payroll,Gusto Payroll,4547.11,Payroll expense - Gusto Payroll
+436,2026-05-22,Payroll,ADP,8357.7,Payroll expense - ADP
+444,2026-05-23,Software & Subscriptions,Zoom,879.37,Software & Subscriptions expense - Zoom
+443,2026-05-25,Rent & Utilities,Metro Electric,2985.13,Rent & Utilities expense - Metro Electric
+457,2026-05-25,Travel,Uber for Business,1468.87,Travel expense - Uber for Business
+462,2026-05-25,Office Supplies,Staples,440.34,Office Supplies expense - Staples
+447,2026-05-26,Software & Subscriptions,GitHub,1308.37,Software & Subscriptions expense - GitHub
+470,2026-05-26,Professional Services,Local Law Partners,985.06,Professional Services expense - Local Law Partners
+446,2026-05-27,Software & Subscriptions,Zoom,1511.11,Software & Subscriptions expense - Zoom
+472,2026-05-27,Equipment,Apple Business,311.65,Equipment expense - Apple Business
+454,2026-05-28,Marketing,LinkedIn Ads,1078.84,Marketing expense - LinkedIn Ads
+450,2026-05-31,Marketing,Meta Ads,35.26,Marketing expense - Meta Ads
+464,2026-05-31,Office Supplies,Staples,70.14,Office Supplies expense - Staples
+493,2026-06-01,Travel,Uber for Business,692.44,Travel expense - Uber for Business
+478,2026-06-02,Rent & Utilities,Metro Electric,4358.5,Rent & Utilities expense - Metro Electric
+498,2026-06-02,Office Supplies,Office Depot,67.8,Office Supplies expense - Office Depot
+502,2026-06-02,Professional Services,Local Law Partners,1561.34,Professional Services expense - Local Law Partners
+483,2026-06-03,Software & Subscriptions,Salesforce,1258.94,Software & Subscriptions expense - Salesforce
+484,2026-06-04,Software & Subscriptions,Salesforce,531.34,Software & Subscriptions expense - Salesforce
+489,2026-06-05,Marketing,LinkedIn Ads,1738.66,Marketing expense - LinkedIn Ads
+500,2026-06-05,Office Supplies,Office Depot,344.88,Office Supplies expense - Office Depot
+513,2026-06-05,Equipment,Herman Miller,586.06,Equipment expense - Herman Miller
+495,2026-06-07,Travel,Marriott,1481.59,Travel expense - Marriott
+488,2026-06-10,Marketing,Mailchimp,1804.49,Marketing expense - Mailchimp
+494,2026-06-10,Travel,Uber for Business,269.39,Travel expense - Uber for Business
+475,2026-06-11,Payroll,Gusto Payroll,15023.05,Payroll expense - Gusto Payroll
+499,2026-06-11,Office Supplies,Office Depot,129.44,Office Supplies expense - Office Depot
+503,2026-06-12,Professional Services,Local Law Partners,1448.19,Professional Services expense - Local Law Partners
+501,2026-06-13,Office Supplies,Office Depot,222.17,Office Supplies expense - Office Depot
+510,2026-06-14,Equipment,Herman Miller,677.7,Equipment expense - Herman Miller
+474,2026-06-15,Payroll,Gusto Payroll,18221.04,Payroll expense - Gusto Payroll
+505,2026-06-15,Professional Services,Deloitte Consulting,310.9,Professional Services expense - Deloitte Consulting
+506,2026-06-15,Equipment,Herman Miller,677.2,Equipment expense - Herman Miller
+476,2026-06-17,Payroll,ADP,13708.9,Payroll expense - ADP
+477,2026-06-17,Rent & Utilities,Skyline Properties,2421.31,Rent & Utilities expense - Skyline Properties
+492,2026-06-17,Travel,United Airlines,1356.51,Travel expense - United Airlines
+509,2026-06-17,Equipment,Apple Business,834.28,Equipment expense - Apple Business
+480,2026-06-20,Software & Subscriptions,GitHub,718.76,Software & Subscriptions expense - GitHub
+482,2026-06-21,Software & Subscriptions,GitHub,499.08,Software & Subscriptions expense - GitHub
+491,2026-06-21,Travel,Delta Airlines,1178.23,Travel expense - Delta Airlines
+485,2026-06-22,Software & Subscriptions,Zoom,1062.17,Software & Subscriptions expense - Zoom
+486,2026-06-22,Marketing,Canva,1440.92,Marketing expense - Canva
+479,2026-06-23,Rent & Utilities,Metro Electric,4500.44,Rent & Utilities expense - Metro Electric
+490,2026-06-23,Marketing,Canva,663.71,Marketing expense - Canva
+504,2026-06-24,Professional Services,TaxPro CPA,1519.46,Professional Services expense - TaxPro CPA
+507,2026-06-25,Equipment,Apple Business,202.18,Equipment expense - Apple Business
+508,2026-06-25,Equipment,Apple Business,206.64,Equipment expense - Apple Business
+481,2026-06-26,Software & Subscriptions,AWS,836.34,Software & Subscriptions expense - AWS
+512,2026-06-26,Equipment,Dell,167.63,Equipment expense - Dell
+496,2026-06-27,Office Supplies,Office Depot,84.02,Office Supplies expense - Office Depot
+511,2026-06-27,Equipment,Dell,781.03,Equipment expense - Dell
+497,2026-06-29,Office Supplies,Office Depot,437.59,Office Supplies expense - Office Depot
+487,2026-06-30,Marketing,Google Ads,1307.19,Marketing expense - Google Ads

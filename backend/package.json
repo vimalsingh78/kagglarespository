@@ -1,0 +1,23 @@
+{
+  "name": "cost-tracker-backend",
+  "version": "2.0.0",
+  "description": "Business Cost Tracker Dashboard - backend API (Postgres/Vercel-ready)",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js",
+    "dev:pglite": "USE_PGLITE=1 node server.js",
+    "seed:pglite": "USE_PGLITE=1 node seed.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.13.0"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.2.12"
+  }
+}
